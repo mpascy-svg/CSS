@@ -1,0 +1,20 @@
+*{
+    font-size: 30px;
+    font-weight: 300;
+    font-family: fantasy;
+}
+
+h3{
+    color: darkseagreen;
+}
+
+h4{
+    color: darkturquoise;
+}
+
+.myclass{
+    color: khaki
+
+    #myid{
+        cadetblue
+    }
