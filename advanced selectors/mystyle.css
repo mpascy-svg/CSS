@@ -1,0 +1,26 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(106, 32, 143);
+}
+
+h1{
+    color: rgb(19, 2, 134);
+}
+
+a{
+    color: lightgoldenrodyellow;}
+
+a:hover{
+    color: gold;
+}
+
+ul>li{font-weight: bold;}
+
+p +p{
+    background-color: midnightblue;
+
+}
+
+ul li::before{
+    content:"✨";
+}
